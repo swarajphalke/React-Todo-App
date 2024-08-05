@@ -1,0 +1,13 @@
+.inputTask{
+    border: 1px solid rgba(180, 180, 180, 0.228);
+    border-radius: 14px;
+    padding: 30px;
+  }
+  ol li {
+    margin-bottom: 7px;
+    color:cornflowerblue;
+    font-weight: 700;
+    font-size: 17px;
+    text-transform: capitalize;
+    
+  }
